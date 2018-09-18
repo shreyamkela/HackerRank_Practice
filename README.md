@@ -1,1 +1,2 @@
-Practicing programming questions
+Practicing programming questions present on HackerRank
+
