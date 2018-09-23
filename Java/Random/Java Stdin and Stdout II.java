@@ -17,7 +17,5 @@ public class Test {
 		System.out.println("Double: " + d);
 		System.out.println("Integer: " + i);
 		
-
 	}
-
 }
