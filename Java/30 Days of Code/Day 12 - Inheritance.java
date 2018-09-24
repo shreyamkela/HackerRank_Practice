@@ -29,7 +29,6 @@ class Student extends Person{
     *   @param id - An integer denoting the Person's ID number.
     *   @param scores - An array of integers denoting the Person's test scores.
     */
-    // Write your constructor here
     Student(String firstName, String lastName, int id, int[] scores) { 
     	
     	//As in main, the called class Student has 4 param so we create a constructor with 4 param
