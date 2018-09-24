@@ -77,7 +77,6 @@ class Student extends Person{
 		}
 
     }
-    // Write your method here
 }
 class Test {
 	public static void main(String[] args) {
