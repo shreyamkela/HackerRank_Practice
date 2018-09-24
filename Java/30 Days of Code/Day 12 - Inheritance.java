@@ -21,7 +21,6 @@ class Person {
 }
 class Student extends Person{
 	private int[] testScores;
-
     /*	
     *   Class Constructor
     *   
